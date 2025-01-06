@@ -1,4 +1,5 @@
 ### Cybersecurity || Software Engineering || System-Level Programming
+__Contact me via email at ethanjoliveira@gmail.com__
 
 16-year-old programmer with 4+ years of experience, specializing in building clean, efficient, and impactful tools with a focus on functionality and security.
 
