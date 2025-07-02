@@ -27,6 +27,13 @@ I believe systems-level programming is the most important part of software devel
 ![Rust](https://img.shields.io/badge/Rust-000?style=for-the-badge&logo=rust&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 
+### [Solis](https://github.com/provrb/solis)
+> Solis is a voice-driven AI race engineer built to interpret live telemetry, simulate strategy calls, and deliver real-time strategic feedback.
+
+![Rust](https://img.shields.io/badge/Rust-000?style=for-the-badge&logo=rust&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+
 ### [TrailMixr](https://github.com/Anonymous271828/TrailMixr)
 > Your intelligent companion for safe, multi-day hiking adventures in Canadian provincial parks.
 > 
