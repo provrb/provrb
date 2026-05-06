@@ -17,7 +17,7 @@ _If you are interested in OBDium, consider taking a peek at my most recent proje
 ![Tauri](https://img.shields.io/badge/Tauri-FFC131?style=for-the-badge&logo=tauri&logoColor=white)
 
 ### [Protium](https://github.com/provrb/protium)
-> A CAN protocol-accurate OBD/ELM simulation framework designed to support the development and testing of [OBDium](https://github.com/obdium).
+> A Rust library for simulating CAN bus communication with multi-node support and complete ISO 11898-1 protocol implementation.
 
 ![Rust](https://img.shields.io/badge/Rust-000?style=for-the-badge&logo=rust&logoColor=white)
 
