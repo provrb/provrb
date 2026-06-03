@@ -4,6 +4,8 @@ I'm a senior in high school with ~5 years of programming experience, primarily w
 **Languages**: `Rust`, `C`, `C++`, `Python`, `Go`, `Lua`, `JavaScript/TypeScript`, `HTML`, `CSS`, and `MATLAB`. 
 
 ## Projects
+I could go on about all my projects forever. To save both of us some time, I listed some of my most interesting recent projects below, in my opinion:
+
 ### [OBDium](https://github.com/provrb/obdium)  
 > A Rust-based vehicle diagnostics tool designed to connect with ELM327 adapters, offering live OBD-II data, fault code analysis, and offline VIN decoding.
 
@@ -16,11 +18,6 @@ _If you are interested in OBDium, consider taking a peek at my most recent proje
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Tauri](https://img.shields.io/badge/Tauri-FFC131?style=for-the-badge&logo=tauri&logoColor=white)
 
-### [Protium](https://github.com/provrb/protium)
-> A Rust library for simulating CAN bus communication with multi-node support and complete ISO 11898-1 protocol implementation.
-
-![Rust](https://img.shields.io/badge/Rust-000?style=for-the-badge&logo=rust&logoColor=white)
-
 ### [Solis](https://github.com/provrb/solis)
 > Solis is a voice-driven AI race engineer built to interpret live telemetry, simulate strategy calls, and deliver real-time strategic feedback.
 
@@ -29,3 +26,10 @@ _If you are interested in OBDium, consider taking a peek at my most recent proje
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Tauri](https://img.shields.io/badge/Tauri-FFC131?style=for-the-badge&logo=tauri&logoColor=white)
+
+### [Protium](https://github.com/provrb/protium)
+> A Rust library for simulating CAN bus communication with multi-node support and complete ISO 11898-1 protocol implementation.
+
+![Rust](https://img.shields.io/badge/Rust-000?style=for-the-badge&logo=rust&logoColor=white)
+
+
