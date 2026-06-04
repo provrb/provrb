@@ -18,6 +18,17 @@ _If you are interested in OBDium, consider taking a peek at my most recent proje
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Tauri](https://img.shields.io/badge/Tauri-FFC131?style=for-the-badge&logo=tauri&logoColor=white)
 
+### [Protium](https://github.com/provrb/protium)
+> A Rust library for simulating CAN bus communication with multi-node support and complete ISO 11898-1 protocol implementation.
+
+![Rust](https://img.shields.io/badge/Rust-000?style=for-the-badge&logo=rust&logoColor=white)
+
+### [REACT](https://github.com/provrb/react)
+> A security research project demonstrating a privilege-escalation chain leading to persistent system, TrustedInstaller-level control
+
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![ASM](https://img.shields.io/badge/asm-%23000000.svg?style=for-the-badge)
 ### [Solis](https://github.com/provrb/solis)
 > Solis is a voice-driven AI race engineer built to interpret live telemetry, simulate strategy calls, and deliver real-time strategic feedback.
 
@@ -26,10 +37,4 @@ _If you are interested in OBDium, consider taking a peek at my most recent proje
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Tauri](https://img.shields.io/badge/Tauri-FFC131?style=for-the-badge&logo=tauri&logoColor=white)
-
-### [Protium](https://github.com/provrb/protium)
-> A Rust library for simulating CAN bus communication with multi-node support and complete ISO 11898-1 protocol implementation.
-
-![Rust](https://img.shields.io/badge/Rust-000?style=for-the-badge&logo=rust&logoColor=white)
-
 
