@@ -1,5 +1,5 @@
 ## About Me
-I'm a senior in high school with ~5 years of programming experience, primarily working in Rust, C, and C++ on systems and low-level development. 
+I'm about to enter my first year of university and have ~5 years of programming experience, primarily working in Rust, C, and C++ on systems and low-level development. 
 
 **Languages**: `Rust`, `C`, `C++`, `Python`, `Go`, `Lua`, `JavaScript/TypeScript`, `HTML`, `CSS`, and `MATLAB`. 
 
