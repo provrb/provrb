@@ -1,6 +1,8 @@
 ## About Me
 I'm about to enter my first year of university and have ~5 years of programming experience, primarily working in Rust, C, and C++ on systems and low-level development. 
 
+My favourite languages to work in are Rust and C, however, my full language suite is listed below. Something cool about me is that I also founded and own a Roblox game on the side, which peaked at 4,000 concurrent users with 13 million visits, though I'm not too driven about game development.
+
 **Languages**: `Rust`, `C`, `C++`, `Python`, `Go`, `Lua`, `JavaScript/TypeScript`, `HTML`, `CSS`, and `MATLAB`. 
 
 ## Projects
