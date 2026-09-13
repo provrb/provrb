@@ -32,7 +32,7 @@ _If you are interested in OBDium, consider taking a peek at my most recent proje
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![ASM](https://img.shields.io/badge/asm-%23000000.svg?style=for-the-badge)
 ### [Solis](https://github.com/provrb/solis)
-> Solis is a voice-driven AI race engineer built to interpret live telemetry, simulate strategy calls, and deliver real-time strategic feedback.
+> An F1 22 telemetry parsing web-app integrating a voice-driven AI race engineer, built to interpret live telemetry, simulate strategy calls, and deliver real-time strategic feedback. (WIP. INCOMPLETE)
 
 ![Rust](https://img.shields.io/badge/Rust-000?style=for-the-badge&logo=rust&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
